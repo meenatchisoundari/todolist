@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "type": [
+      "SAVE",
+      "DEL",
+      "REMOVE",
+      "CREATE"
+    ]
+  },
+  {
+    "id": "2",
+    "type": [
+      "DEL",
+      "REMOVE"
+    ]
+  }
+]
